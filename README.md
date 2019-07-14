@@ -12,6 +12,7 @@
 | 3 | Fri 19-Jul-2019 | IP Networking  || |
 | 4 | Sat 20-Jul-2019 |Network Layer; Routing protocol   || |
 | 5 | Sun 21-Jul-2019 |Internet Protocol ; IP security part1   || |
+|**No class** <br> Due to RMUTCON2019| Wed 24-Jul-2019| || |
 | 6 |   Aug 2019 |IP security part2   || |
 | 7 |   Aug 2019 | Quality of service || |
 | 8 | 5-11 Aug 2019 | ***Midterm Exam*** || Close book |
