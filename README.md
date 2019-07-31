@@ -14,6 +14,7 @@
 | 3 | Sat 20-Jul-2019 |Digital,Analog Transmission |**slide** : <br> - [CH4 IP](https://drive.google.com/file/d/1AK3i0viFvK6aG_UvAY9Qyn4wLi3yvUuT/view?usp=sharing)<br>  **Supplements**: <br> - [05-digital.pdf](https://www.cpe.ku.ac.th/~cpj/204325/slides/05-digital.pdf)<br> - [06-analog.pdf](https://www.cpe.ku.ac.th/~cpj/204325/slides/06-analog.pdf)<br> <br> - [CH4 Digital](https://drive.google.com/file/d/1RM-GaGJCQnV48RRuHJJd_r2X7Y6NvuEk/view?usp=sharing) <br> - [CH5 Analog](https://drive.google.com/file/d/1FVwJRiHNqZ3NllldGL8TlJ6snwreiu4-/view?usp=sharing) <br>  |[HW-3](https://drive.google.com/file/d/1mfukzVrhTRYCqQ8UE2XtpncBogSbbf7F/view?usp=sharing)|
 | 4 | Sun 21-Jul-2019 |Multiplexing | **slide** : <br> [07-multiplex.pdf](https://www.cpe.ku.ac.th/~cpj/204325/slides/07-multiplex.pdf)<br> **Supplements**: <br> - [ch6-multiplex](https://drive.google.com/file/d/1aDulnOQwk7cGHrFMLqJV7cSzRoFl4dNy/view?usp=sharing)<br> - [Install Ubuntu](https://youtu.be/ZnHhjzCfZpY)<br> - [Config GNS3](https://youtu.be/Dlg3aYCCJ0A)| |
 |**No class** <br> Due to RMUTCON2019| Wed 24-Jul-2019| || |
+|**No class**| Wed 31-Jul-2019| || |
 | 5 | Wed 7-Aug-2019 |- Student mini-project <br> - Internet access technology  |**slide** : <br> [08-access.pdf](https://www.cpe.ku.ac.th/~cpj/204325/slides/08-access.pdf)<br>**Supplements**: <br>| |
 | 6 |   Aug 2019 |IP security part2   || |
 | 7 |   Aug 2019 | Quality of service || |
