@@ -15,7 +15,7 @@
 | 4 | Sun 21-Jul-2019 |Multiplexing | **slide** : <br> [07-multiplex.pdf](https://www.cpe.ku.ac.th/~cpj/204325/slides/07-multiplex.pdf)<br> **Supplements**: <br> - [ch6-multiplex](https://drive.google.com/file/d/1aDulnOQwk7cGHrFMLqJV7cSzRoFl4dNy/view?usp=sharing)<br> - [Install Ubuntu](https://youtu.be/ZnHhjzCfZpY)<br> - [Config GNS3](https://youtu.be/Dlg3aYCCJ0A)| |
 |**No class** <br> Due to RMUTCON2019| Wed 24-Jul-2019| || |
 |**No class**| Wed 31-Jul-2019| || |
-| 5 | Wed 7-Aug-2019 |- Student mini-project <br> - Internet access technology  |**slide** : <br> [08-access.pdf](https://www.cpe.ku.ac.th/~cpj/204325/slides/08-access.pdf)<br>**Supplements**: <br>| |
+| 5 | Wed 7-Aug-2019 |- Student mini-project <br> - Internet access technology  |**slide** : <br> [Network Layer](https://drive.google.com/file/d/1iQcNgXGOuRDXBz_ZsItFzzFoCtWdAHiq/view?usp=sharing)<br>**Supplements**: <br>| |
 | 6 |   Aug 2019 |IP security part2   || |
 | 7 |   Aug 2019 | Quality of service || |
 | 8 |   Aug 2019 | Quality of service || |
