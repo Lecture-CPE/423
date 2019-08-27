@@ -18,7 +18,7 @@
 | 5 | Wed 7-Aug-2019 |- Student mini-project <br> - Internet access technology  |**slide** : <br> [Network Layer](https://drive.google.com/file/d/1iQcNgXGOuRDXBz_ZsItFzzFoCtWdAHiq/view?usp=sharing)<br>**Supplements**: <br>| |
 | 6 | Wed 14-Aug-2019 |- Network IP |**slide** : <br> [Network Layer 2](https://drive.google.com/open?id=1iQcNgXGOuRDXBz_ZsItFzzFoCtWdAHiq)<br>**Supplements**: <br>|HW-4 :<br>16-Aug-2019 (Via. github) <br> **submit** pull request 2 files to this repo (create directory name HW4) <br> - [dataset](http://opsahl.co.uk/tnet/datasets/Cross_Parker-Manufacturing_info.txt)<br> - kruskal.py <br> - dijkstra.py |
 | 7 |   14-Aug-2019 |Multiple Access|**slide**:<br> - [Multiple Access](https://drive.google.com/open?id=1phYKJ-liPCJ2k9WqjkLlhNDWzSlakt9Q)| |
-| 8 |   21-Aug-2019 | Linux operating system |**slide**:<br> - )| |
+| 8 |   21-Aug-2019 | Linux operating system |**slide**:<br> - [Linux part1](https://drive.google.com/open?id=1S4Kjzrl-RNi68Jhej_KawYhAYJ7PUN8F)| |
 | 9 |   27-Sep-2019 | ***Midterm Exam*** || Close book|
 | 10 |   Sep 2019 |Linux administrator || |
 | 17 | 23-30 Sep 2019 | ***Final Exam***  || Close book |
