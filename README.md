@@ -21,6 +21,7 @@
 | 8 |   21-Aug-2019 | Linux operating system |**slide**:<br> - [Linux part1](https://drive.google.com/open?id=1S4Kjzrl-RNi68Jhej_KawYhAYJ7PUN8F)| |
 | 9 |   27-Sep-2019 | ***Midterm Exam*** || Close book|
 | 10 |   Sep 2019 |Linux administrator || |
+|13 | 18-Sep-2019| AAA/RADIUS| **slide**:<br> - [RADIUS](https://drive.google.com/open?id=1aOB_9MxDo77SvS775a9y80HZgzT4a_Zf) || |
 | 17 | 23-30 Sep 2019 | ***Final Exam***  || Close book |
 
 ## Main References: (recommended, not required)
