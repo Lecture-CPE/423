@@ -2,7 +2,8 @@
 
 ## Objectives
  This course is primarily designed for undergraduate students. Students become familiar with computer network performance evaluation, network modeling, performance analysis.
-
+## Score
+- [Attendance (Fri 20-Sep-2019)](https://drive.google.com/open?id=1sJHYXNt54by-Kd_MfVgPecLjucJqcoAZ) :new:
 ## Resources 
 - [Data Communication and Computer Networks](https://www.cpe.ku.ac.th/~cpj/204325/slides/)
 
