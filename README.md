@@ -3,10 +3,16 @@
 ## Objectives
  This course is primarily designed for undergraduate students. Students become familiar with computer network performance evaluation, network modeling, performance analysis.
 ## Score
-- [Attendance (Fri 20-Sep-2019)](https://drive.google.com/open?id=1sJHYXNt54by-Kd_MfVgPecLjucJqcoAZ) :new:
+- [Attendance (Tue 8-Oct-2019)](https://drive.google.com/file/d/11_bo0skqdKhBScIT4JzQ4NWpuK5uH6B0/view?usp=sharing):new:
+
 ## Resources 
+- [Attendance (Fri 20-Sep-2019)](https://drive.google.com/open?id=1sJHYXNt54by-Kd_MfVgPecLjucJqcoAZ) 
 - [Data Communication and Computer Networks](https://www.cpe.ku.ac.th/~cpj/204325/slides/)
 
+## Chance for upgrade
+011, 044, 051, 127
+
+# Resources
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
 |  1 |Wed 26 June 2019| Orientation and Intro to computer network| [[course description]](https://drive.google.com/open?id=1P_F9QmOwFX6FlnDPF-qrr2rO22kUy5kl), [1-Introduction.pdf](https://drive.google.com/file/d/1dlxGSjbRyQqPGkCvuRlTvN9PnKpz7mQR/view?usp=sharing) <br> **Supplements** : <br> * [AN EARLY HISTORY OF THE INTERNET](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5534584)<br> * [CH1](https://drive.google.com/file/d/1mU3kApNyZeisXFIa9T6FfW_FIZfgX2q_/view?usp=sharing) | Q3-1,P3-1, P3-2, P3-3, P3-7, P3-12 <br>23:59 5-July-2019 (Via. github) |
