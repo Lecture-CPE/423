@@ -1,4 +1,6 @@
 # Advanced Computer Network (31110423)
+## คำชี้แจง
+เนื้อหาในเว็บนี้ไม่ได้ผ่านการตรวจแก้เช่นเดียวกับบทความสำหรับตีพิมพ์ทั่วไป และอาจมีการแก้ไขในขณะบรรยายโดยไม่ได้ปรับเอกสาร จึงไม่เหมาะต่อการใช้อ้างอิง
 
 ## Objectives
  This course is primarily designed for undergraduate students. Students become familiar with computer network performance evaluation, network modeling, performance analysis.
