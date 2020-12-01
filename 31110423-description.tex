@@ -1,0 +1,171 @@
+\documentclass[11pt, a4paper]{article}
+%\usepackage{geometry}
+\usepackage[inner=1.5cm,outer=1.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+\pagestyle{empty}
+\usepackage{graphicx}
+\usepackage{fancyhdr, lastpage, bbding, pmboxdraw}
+\usepackage[usenames,dvipsnames]{color}
+\definecolor{darkblue}{rgb}{0,0,.6}
+\definecolor{darkred}{rgb}{.7,0,0}
+\definecolor{darkgreen}{rgb}{0,.6,0}
+\definecolor{red}{rgb}{.98,0,0}
+\usepackage[colorlinks,pagebackref,pdfusetitle,urlcolor=darkblue,citecolor=darkblue,linkcolor=darkred,bookmarksnumbered,plainpages=false]{hyperref}
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\usepackage{enumerate}
+\usepackage{cancel}
+\pagestyle{fancyplain}
+\fancyhf{}
+\lhead{ \fancyplain{}{31110423 Advanced Computer Network} }
+%\chead{ \fancyplain{}{} }
+\rhead{ \fancyplain{}{\today} }
+%\rfoot{\fancyplain{}{page \thepage\ of \pageref{LastPage}}}
+\fancyfoot[RO, LE] {page \thepage\ of \pageref{LastPage} }
+\thispagestyle{plain}
+
+%%%%%%%%%%%% LISTING %%%
+\usepackage{listings}
+\usepackage{caption}
+\DeclareCaptionFont{white}{\color{white}}
+\DeclareCaptionFormat{listing}{\colorbox{gray}{\parbox{\textwidth}{#1#2#3}}}
+\captionsetup[lstlisting]{format=listing,labelfont=white,textfont=white}
+\usepackage{verbatim} % used to display code
+\usepackage{fancyvrb}
+\usepackage{acronym}
+\usepackage{amsthm}
+\VerbatimFootnotes % Required, otherwise verbatim does not work in footnotes!
+
+\definecolor{OliveGreen}{cmyk}{0.64,0,0.95,0.40}
+\definecolor{CadetBlue}{cmyk}{0.62,0.57,0.23,0}
+\definecolor{lightlightgray}{gray}{0.93}
+
+
+
+\lstset{
+%language=bash,                          % Code langugage
+basicstyle=\ttfamily,                   % Code font, Examples: \footnotesize, \ttfamily
+keywordstyle=\color{OliveGreen},        % Keywords font ('*' = uppercase)
+commentstyle=\color{gray},              % Comments font
+numbers=left,                           % Line nums position
+numberstyle=\tiny,                      % Line-numbers fonts
+stepnumber=1,                           % Step between two line-numbers
+numbersep=5pt,                          % How far are line-numbers from code
+backgroundcolor=\color{lightlightgray}, % Choose background color
+frame=none,                             % A frame around the code
+tabsize=2,                              % Default tab size
+captionpos=t,                           % Caption-position = bottom
+breaklines=true,                        % Automatic line breaking?
+breakatwhitespace=false,                % Automatic breaks only at whitespace?
+showspaces=false,                       % Dont make spaces visible
+showtabs=false,                         % Dont make tabls visible
+columns=flexible,                       % Column format
+morekeywords={__global__, __device__},  % CUDA specific keywords
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\begin{center}
+{\Large \textsc{Advanced Computer Networks}}
+\end{center}
+\begin{center}
+1 Dec 2020
+\end{center}
+
+\begin{center}
+\rule{6in}{0.4pt}
+\begin{minipage}[t]{.75\textwidth}
+\begin{tabular}{llcccll}
+\textbf{Instructor:} & Songrit Kitisriworapan & & &  & \textbf{Time:} & Wed 13:00 -- 16:00 \\
+\textbf{Email:} &  \href{mailto:songrit@npu.ac.th}{songrit@npu.ac.th} & & & & \textbf{Place:} & EN1303 (Network Lab)
+\end{tabular}
+\end{minipage}
+\rule{6in}{0.4pt}
+\end{center}
+\vspace{.5cm}
+\setlength{\unitlength}{1in}
+\renewcommand{\arraystretch}{2}
+
+\noindent\textbf{Course Pages:} \begin{enumerate}
+\item \url{https://github.com/Lecture-CPE/423}
+\end{enumerate}
+
+\vskip.15in
+\noindent\textbf{Office Hours:} After class, or by appointment, or E-mail (songrit@npu.ac.th).
+
+\vskip.15in
+\noindent\textbf{Main References:}(recommended, not required) 
+
+\begin{itemize}
+\item [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+\end{itemize} 
+
+
+\vskip.15in
+\noindent\textbf{Objectives:}  This course is primarily designed for undergraduate students. Students become familiar with computer network performance evaluation, network modeling, performance analysis.
+
+\vskip.15in
+\noindent\textbf{Prerequisites:} Computer Networks (316)
+
+\vspace*{.15in}
+
+\vspace*{.15in}
+\noindent\textbf{Grading Policy:} 
+\begin{itemize}
+	\item \textbf{Option-0} Class attend(10\%), Assignments (10\%), Project Midterm (25\%),   Present , Project Final (35\%).
+\end{itemize}
+\noindent\textbf{Important Dates:}
+\begin{center} \begin{minipage}{3.8in}
+\begin{flushleft}
+Project Midterm (25\%) \dotfill ~Jan, 2021  \\
+Project Final (35\%) \dotfill ~March, 2021 \\
+\end{flushleft}
+\end{minipage}
+\end{center}
+
+\vskip.15in
+\noindent\textbf{Course Policy:}  
+\begin{itemize}
+\item Grading A, B+, B, C+, C, D+, D, F($<$ 50\%)
+\item All hard-copy assignments must be handed in at the beginning of the class ($>$ 15 min. is considered late).
+\item For soft-copy will be timed by the local time stamp.
+\item Late penalty after the due date
+\end{itemize}
+
+\vskip.15in
+\noindent\textbf{Class Policy:}  
+\begin{itemize}
+\item Regular attendance is essential and expected.
+\end{itemize}
+\vskip.15in
+\noindent\textbf{Academic Honesty:} Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation.
+\clearpage
+\noindent \textbf{Tentative Course Outline:}
+\begin{center}
+\begin{table}[h]
+\scalebox{0.9}{
+\centering
+\begin{tabular}{|c|l|}
+\hline
+\textbf{Week} & \textbf{Description}                                                                                                                \\ \hline
+1             & \begin{tabular}[c]{@{}l@{}}Course orientation\\ Basics of computer network\end{tabular} \\ \hline
+2             & Computer Servers and components \\ \hline
+3             & Linux Operating System\\ \hline
+4             & Linux administrators\\ \hline
+5             & DHCP Servers\\ \hline
+6             & DNS Servers\\ \hline
+7              & MQTT Servers\\ \hline
+8              & \textbf{Midterm Exam}\\ \hline
+9			  & Introduction to containers \\ \hline
+10             & Docker command  \\ \hline
+11             & Build docker images\\ \hline              
+12             & Container orchestration / Kubernetes  \\ \hline              
+13             & Kubernetes management\\ \hline
+14            & Introduction to DevOps \\ \hline
+15			  & Deployment GitOps \\ \hline              
+16            & Project presentation (programming)\\ \hline
+17             & \textbf{Final Exam}                                                                                                                          \\ \hline
+\end{tabular} }
+
+\end{table}
+\end{center}
+%%%%%% THE END 
+\end{document} 
