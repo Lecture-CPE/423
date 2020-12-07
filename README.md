@@ -8,7 +8,8 @@
 # Resources
 | Lect# | Date | Description  |Slide| Assignment Due Date |
 |:-----:|------|-------------|----|---------------------|
-| 1 | Wed 2-Dec-2020 |Orientation and Intro to computer network|- [Syllabus](31110423-description.pdf)<br> - [Intro Computer networks](w1/w1.1-ComputerNetworks.pdf) | |
+| 1 | Wed 2-Dec-2020 <br> 1.30-4.30pm |Orientation and Intro to computer network|- [Syllabus](31110423-description.pdf)<br> - [Intro Computer networks](w1/w1.1-ComputerNetworks.pdf) | |
+| 2 | Wed 9-Dec-2020  <br> 1.30-4.30pm|**งด**| นัดชดเชยภายหลัง | |
 | 8 |  2021 | ***Midterm Exam***  || Close book |
 | 16 |  2021 | ***Final Exam***  || Close book |
 
